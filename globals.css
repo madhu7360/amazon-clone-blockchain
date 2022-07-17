@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.google.com/specimen/Ubuntu');
+
+body{
+  background: #fff;
+  font-family: 'Ubuntu',sans-serif;
+}
